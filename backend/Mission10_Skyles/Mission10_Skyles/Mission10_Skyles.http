@@ -1,0 +1,6 @@
+@Mission10_Skyles_HostAddress = http://localhost:5155
+
+GET {{Mission10_Skyles_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

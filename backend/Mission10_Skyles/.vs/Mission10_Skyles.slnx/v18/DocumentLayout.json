@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rysky\\source\\repos\\Mission10_Skyles\\backend\\Mission10_Skyles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{295C1258-5CBD-5EA8-8BBB-74F35EB83507}|Mission10_Skyles\\Mission10_Skyles.csproj|c:\\users\\rysky\\source\\repos\\mission10_skyles\\backend\\mission10_skyles\\mission10_skyles\\controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295C1258-5CBD-5EA8-8BBB-74F35EB83507}|Mission10_Skyles\\Mission10_Skyles.csproj|solutionrelative:mission10_skyles\\controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295C1258-5CBD-5EA8-8BBB-74F35EB83507}|Mission10_Skyles\\Mission10_Skyles.csproj|c:\\users\\rysky\\source\\repos\\mission10_skyles\\backend\\mission10_skyles\\mission10_skyles\\data\\bowlingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295C1258-5CBD-5EA8-8BBB-74F35EB83507}|Mission10_Skyles\\Mission10_Skyles.csproj|solutionrelative:mission10_skyles\\data\\bowlingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295C1258-5CBD-5EA8-8BBB-74F35EB83507}|Mission10_Skyles\\Mission10_Skyles.csproj|c:\\users\\rysky\\source\\repos\\mission10_skyles\\backend\\mission10_skyles\\mission10_skyles\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{295C1258-5CBD-5EA8-8BBB-74F35EB83507}|Mission10_Skyles\\Mission10_Skyles.csproj|solutionrelative:mission10_skyles\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295C1258-5CBD-5EA8-8BBB-74F35EB83507}|Mission10_Skyles\\Mission10_Skyles.csproj|c:\\users\\rysky\\source\\repos\\mission10_skyles\\backend\\mission10_skyles\\mission10_skyles\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295C1258-5CBD-5EA8-8BBB-74F35EB83507}|Mission10_Skyles\\Mission10_Skyles.csproj|solutionrelative:mission10_skyles\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295C1258-5CBD-5EA8-8BBB-74F35EB83507}|Mission10_Skyles\\Mission10_Skyles.csproj|c:\\users\\rysky\\source\\repos\\mission10_skyles\\backend\\mission10_skyles\\mission10_skyles\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295C1258-5CBD-5EA8-8BBB-74F35EB83507}|Mission10_Skyles\\Mission10_Skyles.csproj|solutionrelative:mission10_skyles\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295C1258-5CBD-5EA8-8BBB-74F35EB83507}|Mission10_Skyles\\Mission10_Skyles.csproj|c:\\users\\rysky\\source\\repos\\mission10_skyles\\backend\\mission10_skyles\\mission10_skyles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295C1258-5CBD-5EA8-8BBB-74F35EB83507}|Mission10_Skyles\\Mission10_Skyles.csproj|solutionrelative:mission10_skyles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Rysky\\source\\repos\\Mission10_Skyles\\backend\\Mission10_Skyles\\Mission10_Skyles\\Data\\Team.cs",
+              "RelativeDocumentMoniker": "Mission10_Skyles\\Data\\Team.cs",
+              "ToolTip": "C:\\Users\\Rysky\\source\\repos\\Mission10_Skyles\\backend\\Mission10_Skyles\\Mission10_Skyles\\Data\\Team.cs",
+              "RelativeToolTip": "Mission10_Skyles\\Data\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:50:49.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rysky\\source\\repos\\Mission10_Skyles\\backend\\Mission10_Skyles\\Mission10_Skyles\\appsettings.json",
+              "RelativeDocumentMoniker": "Mission10_Skyles\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rysky\\source\\repos\\Mission10_Skyles\\backend\\Mission10_Skyles\\Mission10_Skyles\\appsettings.json",
+              "RelativeToolTip": "Mission10_Skyles\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T20:57:48.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlingController.cs",
+              "DocumentMoniker": "C:\\Users\\Rysky\\source\\repos\\Mission10_Skyles\\backend\\Mission10_Skyles\\Mission10_Skyles\\Controllers\\BowlingController.cs",
+              "RelativeDocumentMoniker": "Mission10_Skyles\\Controllers\\BowlingController.cs",
+              "ToolTip": "C:\\Users\\Rysky\\source\\repos\\Mission10_Skyles\\backend\\Mission10_Skyles\\Mission10_Skyles\\Controllers\\BowlingController.cs",
+              "RelativeToolTip": "Mission10_Skyles\\Controllers\\BowlingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T21:08:18.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\Rysky\\source\\repos\\Mission10_Skyles\\backend\\Mission10_Skyles\\Mission10_Skyles\\Data\\Bowler.cs",
+              "RelativeDocumentMoniker": "Mission10_Skyles\\Data\\Bowler.cs",
+              "ToolTip": "C:\\Users\\Rysky\\source\\repos\\Mission10_Skyles\\backend\\Mission10_Skyles\\Mission10_Skyles\\Data\\Bowler.cs",
+              "RelativeToolTip": "Mission10_Skyles\\Data\\Bowler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:27:03.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BowlingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rysky\\source\\repos\\Mission10_Skyles\\backend\\Mission10_Skyles\\Mission10_Skyles\\Data\\BowlingDbContext.cs",
+              "RelativeDocumentMoniker": "Mission10_Skyles\\Data\\BowlingDbContext.cs",
+              "ToolTip": "C:\\Users\\Rysky\\source\\repos\\Mission10_Skyles\\backend\\Mission10_Skyles\\Mission10_Skyles\\Data\\BowlingDbContext.cs",
+              "RelativeToolTip": "Mission10_Skyles\\Data\\BowlingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:29:09.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rysky\\source\\repos\\Mission10_Skyles\\backend\\Mission10_Skyles\\Mission10_Skyles\\Program.cs",
+              "RelativeDocumentMoniker": "Mission10_Skyles\\Program.cs",
+              "ToolTip": "C:\\Users\\Rysky\\source\\repos\\Mission10_Skyles\\backend\\Mission10_Skyles\\Mission10_Skyles\\Program.cs",
+              "RelativeToolTip": "Mission10_Skyles\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:59:36.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
