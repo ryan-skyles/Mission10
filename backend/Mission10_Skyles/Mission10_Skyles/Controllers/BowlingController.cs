@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Mission10_Skyles.Data;
@@ -20,6 +20,8 @@ namespace Mission10_Skyles.Controllers
         {
             var bowlerList = _context.Bowlers
                 .Include(b => b.Team)
+                .Where(b => b.Team != null &&
+                    (b.Team.TeamName == "Marlins" || b.Team.TeamName == "Sharks"))
                 .ToList();
             return bowlerList;
         }

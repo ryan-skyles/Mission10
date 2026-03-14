@@ -147,3 +147,4 @@ C:\Users\Rysky\source\repos\Mission10_Skyles\backend\Mission10_Skyles\Mission10_
 C:\Users\Rysky\source\repos\Mission10_Skyles\backend\Mission10_Skyles\Mission10_Skyles\obj\Debug\net10.0\Mission10_Skyles.pdb
 C:\Users\Rysky\source\repos\Mission10_Skyles\backend\Mission10_Skyles\Mission10_Skyles\obj\Debug\net10.0\Mission10_Skyles.genruntimeconfig.cache
 C:\Users\Rysky\source\repos\Mission10_Skyles\backend\Mission10_Skyles\Mission10_Skyles\obj\Debug\net10.0\ref\Mission10_Skyles.dll
+C:\Users\Rysky\source\repos\Mission10_Skyles\backend\Mission10_Skyles\Mission10_Skyles\obj\Debug\net10.0\Mission10_Skyles.sourcelink.json

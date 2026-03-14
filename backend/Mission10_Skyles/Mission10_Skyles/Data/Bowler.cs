@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Mission10_Skyles.Data
@@ -12,7 +12,7 @@ namespace Mission10_Skyles.Data
 
         public string BowlerFirstName { get; set; }
 
-        public string BowlerMiddleInit {  get; set; }
+        public string? BowlerMiddleInit { get; set; }
 
         public string BowlerAddress { get; set; }
 
